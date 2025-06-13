@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in finding a job in game and software development or technical animation
-- 🌱 I’m currently learning game programming and development at SNHU
-- 💞️ I’m looking to collaborate on Game Jams
+- 👀 I’m interested in making games.
+- 🌱 I’m currently working as an extern at Serenity Forge through the RealXP Lab program!
+- 💞️ I’m looking to find a long term collaborator for a low-budget, mid-size game project.
 - 📫 How to reach me: https://PettyPixels.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wrestled an alligator and won!
