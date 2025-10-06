@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in making games.
-- 🌱 I’m currently working as an extern at Serenity Forge through the RealXP Lab program!
+- 🌱 I’m currently finishing out my B.S. in Game Programming and Development at SNHU!
 - 💞️ I’m looking to find a long term collaborator for a low-budget, mid-size game project.
 - 📫 How to reach me: https://PettyPixels.dev
 - 😄 Pronouns: He/Him
