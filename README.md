@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zach
 - 👀 I’m interested in making games.
-- 🌱 I’m currently finishing out my B.S. in Game Programming and Development at SNHU!
-- 💞️ I’m looking to find a long term collaborator for a low-budget, small-size game project.
-- 📫 How to reach me: https://PettyPixels.dev
+- 🌱 I just finished my B.S. Majoring in Game Programming and Development at SNHU!
+- 💞️ I’m looking to find a long term collaborator for a low-budget, small game project.
+- 📫 How to reach me: zach@pettypixels.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wrestled an alligator and won!
