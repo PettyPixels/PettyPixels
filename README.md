@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in making games.
+- 👀 I’m interested in making games and software.
 - 🌱 I just finished my B.S. Majoring in Game Programming and Development at SNHU!
 - 💞️ I’m looking to find a long term collaborator for a low-budget, small game project.
 - 📫 How to reach me: zach@pettypixels.dev
